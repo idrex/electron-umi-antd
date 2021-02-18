@@ -23,6 +23,11 @@
 
 - 菜单配置 `src/layouts/menu/config.tsx`
 
+### 工具
+
+- [图标生成工具](https://anyconv.com/png-to-icns-converter/)
+- [图标生成工具](https://www.easyicon.net/covert/)
+
 
 #### Fix:
 - [x] 升级到electron9.1.0，同步官方
